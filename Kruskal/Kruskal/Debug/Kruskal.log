@@ -1,0 +1,29 @@
+﻿  Graph.c
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\def.h(30): warning C4005: “max”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\Graph.c(27): warning C4552: ”-“: 未使用表达式结果
+  Kruskal.c
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\def.h(30): warning C4005: “max”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+  binarytree.c
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\def.h(30): warning C4005: “max”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\binarytree.c(243): warning C4244: “=”: 从“double”转换到“uint32_t”，可能丢失数据
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\binarytree.c(250): warning C4244: “=”: 从“double”转换到“uint32_t”，可能丢失数据
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\binarytree.c(257): warning C4244: “=”: 从“double”转换到“uint32_t”，可能丢失数据
+  main.c
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\main.c(3): warning C4083: 应输入“newline”；找到标识符“；”
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\def.h(30): warning C4005: “max”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+  queue.c
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\def.h(30): warning C4005: “max”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\queue.c(38): warning C4098: “queue_destroy”:“void”函数返回值
+  slist.c
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\def.h(30): warning C4005: “max”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+  stack.c
+C:\Users\Gungnir\source\repos\Kruskal\Kruskal\def.h(30): warning C4005: “max”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17134.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+  正在生成代码...
+  Kruskal.vcxproj -> C:\Users\Gungnir\source\repos\Kruskal\Debug\Kruskal.exe
