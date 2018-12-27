@@ -1,0 +1,16 @@
+﻿  Huffman.c
+C:\Users\Gungnir\source\repos\Huffman\Huffman\def.h(30): warning C4005: “max”: 宏重定义
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdlib.h(1289): note: 参见“max”的前一个定义
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.h(26): warning C4091: “typedef ”: 没有声明变量时忽略“huffmannode”的左侧
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.c(6): warning C4083: 应输入“newline”；找到标识符“；”
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.c(91): warning C4133: “函数”: 从“huffmannode *”到“unsigned int *”的类型不兼容
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.c(104): warning C4047: “函数”:“unsigned int *”与“huffmannode **”的间接级别不同
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.c(104): warning C4024: “PriorityQueryDequeue”: 形参和实参 2 的类型不同
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.c(105): warning C4047: “函数”:“unsigned int *”与“huffmannode **”的间接级别不同
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.c(105): warning C4024: “PriorityQueryDequeue”: 形参和实参 2 的类型不同
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.c(124): warning C4133: “函数”: 从“huffmannode *”到“unsigned int *”的类型不兼容
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.c(131): warning C4047: “函数”:“unsigned int *”与“huffmannode **”的间接级别不同
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.c(131): warning C4024: “PriorityQueryDequeue”: 形参和实参 2 的类型不同
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.c(160): warning C4133: “=”: 从“unsigned int *”到“unsigned char *”的类型不兼容
+C:\Users\Gungnir\source\repos\Huffman\Huffman\Huffman.c(199): warning C4715: “GetBit”: 不是所有的控件路径都返回值
+  Huffman.vcxproj -> C:\Users\Gungnir\source\repos\Huffman\Debug\Huffman.exe
